@@ -1,5 +1,6 @@
 # Enhanced-validation-of-SAP-production-order-standard-price
 生产订单标准价增强校验增强点：
+
 1.在创建生产订单，输入条件回车后进行检查校验
 
 <img width="627" height="240" alt="image" src="https://github.com/user-attachments/assets/3cc8cf12-9cd3-40f6-b0f8-6aeb42e668ee" />
